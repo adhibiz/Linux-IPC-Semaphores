@@ -125,11 +125,11 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
-![alt text](image.png)
+![alt text](IMG/image.png)
 
 
 $ ipcs
-![alt text](image-1.png)
+![alt text](IMG/image-1.png)
 
 
 
