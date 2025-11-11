@@ -125,6 +125,7 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
+
 ![alt text](IMG/image.png)
 
 
